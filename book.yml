@@ -1,4 +1,6 @@
 title: "精密 GC をインタプリタに実装する"
+head: |
+  <script data-goatcounter="https://ko1.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 description: "インタプリタに正確な（precise）GC を実装する"
 author: "Claude code (asked by ko1)"
 language: "ja"
